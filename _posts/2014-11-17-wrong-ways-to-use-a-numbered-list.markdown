@@ -15,7 +15,7 @@ date: '2014-11-17 23:52:58'
 * "Numbered lists can be used to denote items in a series, such as conclusions or procedural steps."
 * "Numbered lists can be useful to show the relationship between items: a chronology of events, each item’s relative importance, and so on."
 
-Here's a numbered lists done right:
+Here's a numbered list done right:
 <img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/death-list-five.jpg" title="Death List Five"/>
 It's an ordered series that reveals the relative importance of each of those people and creates a chronology. If Beatrix had written the names in a different order, there would be tangible consequences.
 
