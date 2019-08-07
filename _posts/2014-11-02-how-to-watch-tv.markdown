@@ -22,14 +22,14 @@ Here's some help so you can relieve that social/cultural guilt you're carrying a
 Older shows move slowly and include filler to hit their alotted time block. If you're a completionist and refuse to skip anything, do yourself a favor and get through the weaker episodes more quickly. [VLC](http://www.videolan.org/vlc/) offers variable speed playback, which looks and sounds great well past 1.0x. Try one of the presets:
 
 <div align="center">
-<img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/preset-speed-control.png" title="Variable playback speed presets" />
+<img src="/assets/images/preset-speed-control.png" title="Variable playback speed presets" />
 </div>
 <p/>
 
 Or check off the `Status Bar` option under the `View` menu for fine-grained control:
 
 <div align="center">
-<img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/fine-grained-speed-control.png" title="Variable playback speed scrubber" />
+<img src="/assets/images/fine-grained-speed-control.png" title="Variable playback speed scrubber" />
 </div>
 <p/>
 
@@ -41,6 +41,6 @@ This past summer, Wired did a [series of binge-watching guides](http://www.wired
 ######Bonus 2: YouTube
 [Enable the HTML5 player](https://www.youtube.com/html5) and you can start watching that backlog of TED talks at 1.25x speed.
 <div align="center">
-<img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/youtube-speed-control.png" title="Variable playback speed scrubber" />
+<img src="/assets/images/youtube-speed-control.png" title="Variable playback speed scrubber" />
 </div>
 <p/>
