@@ -16,11 +16,11 @@ date: '2014-11-17 23:52:58'
 * "Numbered lists can be useful to show the relationship between items: a chronology of events, each item’s relative importance, and so on."
 
 Here's a numbered list done right:
-<img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/death-list-five.jpg" title="Death List Five"/>
+<img src="/assets/images/death-list-five.jpg" title="Death List Five"/>
 It's an ordered series that reveals the relative importance of each of those people and creates a chronology. If Beatrix had written the names in a different order, there would be tangible consequences.
 
 Most lists are more like [Oliver Queen's](http://arrow.wikia.com/wiki/The_List):
-<img src="https://dl.dropboxusercontent.com/u/31565886/blog-cahrehn/arrow-list.png" title="Robert Queen's notebook" />
+<img src="/assets/images/arrow-list.png" title="Robert Queen's notebook" />
 where there's no inherent ordering and he'll get to them when he'll get to them. Similarly, the order in which you look at someone's favorite cat pictures _doesn't matter_.
 
 Next time you start writing a list, think about whether the items are part of a series, have a quantitative relationship to each other, or if it matters how many of them there are. I'd bet not. Chances are that you want is a bulleted list or a [checklist](https://www.youtube.com/watch?v=F5qqfsQGYus) instead.
